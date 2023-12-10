@@ -1,29 +1,22 @@
-/* *{
-    background-color: black;
-} */
 body{
     height: 100vh;
-    background-color: black;
+    /* background-color: rgb(93, 181, 231); */
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("bg.jpg");
     
 }
 .whether{
     height: 500px ;
     width: 350px;
-    background-color: rgb(0, 109, 128);
+    background-color: rgb(93, 181, 231);
+    
     border-radius: 20px;
     text-align: center; 
     color: #fff;
-    /* margin: 200px;  */
-    /* width: 90%;
-    max-width: 470px;
-    background: linear-gradient(135deg,#feba,#5b548a);
-    margin-top: 20px;
-    border-radius: 20px;
-    padding: 40px 35px;
-    */
+    border: 2px solid blue;
+    
     
 }
  .search{
