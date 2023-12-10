@@ -1,3 +1,6 @@
+/* *{
+    background-color: blue;
+} */
 body{
     height: 100vh;
     /* background-color: rgb(93, 181, 231); */
@@ -5,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     background-image: url("bg.jpg");
+    
 }
 .whether{
     height: 500px ;
